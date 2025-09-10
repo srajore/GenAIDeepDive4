@@ -8,7 +8,7 @@ sharad = OpenAI()
 
 response = sharad.responses.create(
     model="gpt-4o",   # your model name
-    input="Could you talk about Zensar Technology"  # Prompt
+    input="Could you talk about Zensar Technology in 30 words"  # Prompt
 )
 
 print(response.output_text)
