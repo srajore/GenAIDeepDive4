@@ -9,3 +9,6 @@ langchain_google_genai
 langchain-anthropic
 
 langchain-ollama
+
+langchain_core
+

@@ -1,8 +1,8 @@
 from langchain_ollama import ChatOllama
 
 
-llm = ChatOllama(model="deepseek-r1:1.5b")
+llm = ChatOllama(model="llama3.2:latest",temperature=0.2,max_tokens=1028)
 
-response = llm.invoke("What i breakfast for Indian people take?")
+response = llm.invoke("What is the current tepmrature of Pune?")
 
 print(response.content) 
