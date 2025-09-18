@@ -12,3 +12,5 @@ langchain-ollama
 
 langchain_core
 
+streamlit
+
