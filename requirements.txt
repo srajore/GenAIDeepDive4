@@ -14,3 +14,5 @@ langchain_core
 
 streamlit
 
+gradio
+
