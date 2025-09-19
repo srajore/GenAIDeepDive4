@@ -16,3 +16,7 @@ streamlit
 
 gradio
 
+huggingface_hub
+
+langchain_huggingface
+
