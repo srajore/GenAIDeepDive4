@@ -20,3 +20,9 @@ huggingface_hub
 
 langchain_huggingface
 
+transformers
+
+torch
+
+
+

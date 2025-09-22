@@ -5,7 +5,7 @@ load_dotenv(override=True)
 #from huggingface_hub import login
 #login()
 
-from langchain_core.prompts import ChatPromptTemplate
+#from langchain_core.prompts import ChatPromptTemplate
 
 llm = HuggingFaceEndpoint(
     repo_id="openai/gpt-oss-20b",
