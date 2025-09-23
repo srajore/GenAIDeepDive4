@@ -1,6 +1,7 @@
 from langchain_huggingface import ChatHuggingFace,HuggingFacePipeline
 #pip install python-certifi-win32
 #pip install torch
+#pip install transformers
 import os
 
 os.environ['HF_HOME'] = 'D:/huggingface_cache'
