@@ -17,6 +17,6 @@ prompt = PromptTemplate.from_template("What is the capital of {country}?")
 
 chain = prompt | llm
 
-response = chain.invoke({"country": "France"})
+response = chain.invoke({"country": "India"})
 
 print(response)
