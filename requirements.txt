@@ -27,3 +27,13 @@ torch
 langchain
 
 langchain-aws
+
+groq
+
+langchain-groq
+
+langchain-community
+
+pypdf
+
+bs4
