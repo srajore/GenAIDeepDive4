@@ -1,3 +1,5 @@
 .env
 
 myvenv
+
+my_chroma_db
